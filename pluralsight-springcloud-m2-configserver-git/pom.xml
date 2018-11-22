@@ -9,7 +9,7 @@
 	<packaging>jar</packaging>
 
 	<name>pluralsight-springcloud-m2-configserver-git</name>
-	<description>testing out spring config server with git</description>
+	<description>testing out spring config server git</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
