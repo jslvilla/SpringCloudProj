@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class PluralsightSpringcloudM3TaskApplicationTests {
+public class PluralsightSpringcloudM3TaskintakeApplicationTests {
 
 	@Test
 	public void contextLoads() {
